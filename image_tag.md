@@ -1,1 +1,1 @@
-["1. Data Dictionary", "2. PIVOT", "3. SYS"]
+["1. Data Dictionary", "2. PIVOT", "3. SYS", "4. 개별 메뉴에서 오른쪽 마우스를 클릭하면 나오는 기능", "5. 간이 계신기 기능", "6. 체크라인 기능"]
